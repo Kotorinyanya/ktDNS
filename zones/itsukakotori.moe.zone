@@ -1,0 +1,12 @@
+{
+    "$origin": "itsukakotori.moe.",
+    "$ttl": 3600,
+    "ns": [
+        { "host": "alice.ns.cloudflare.com." },
+        { "host": "amit.ns.cloudflare.com." }
+    ],
+    "a": [
+        { "name": "@", "ttl": 600, "value": "104.31.70.179" },
+        { "name": "@", "ttl": 600, "value": "104.31.71.179" }
+    ]
+}
